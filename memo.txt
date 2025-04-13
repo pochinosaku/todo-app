@@ -1,0 +1,2 @@
+index.html
+<ul>  </ul>: unordered list、表示されるときには中黒で箇条書きになる。<ol> </ol> にするとordered listで、1, 2, 3, ... の箇条書きになる。
