@@ -6,6 +6,7 @@ addTaskBtn.addEventListener('click', () => {
   const taskText = taskInput.value.trim();
   if (taskText === "") return;
 
+  // タスクの要素を作成
   const li = document.createElement('li');
   li.textContent = taskText;
 

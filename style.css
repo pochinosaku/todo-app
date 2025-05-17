@@ -1,14 +1,17 @@
 body {
     font-family: sans-serif;
     margin: 2em;
-  }
-  input {
+}
+
+input {
     padding: 8px;
     width: 200px;
-  }
-  button {
+}
+
+button {
     padding: 8px;
-  }
-  li {
+}
+
+li {
     margin-top: 8px;
-  }
+}
